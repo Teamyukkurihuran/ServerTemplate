@@ -1,1 +1,1 @@
-# ServerTemplate
+FuranServerTemplate

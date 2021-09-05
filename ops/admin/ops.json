@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "70aea6e9-a724-4f4b-9635-e87488cdee04",
+    "name": "yukkurihuran_ch",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "08d9fd7b-4a0a-492b-bfef-9424e15a3cc1",
+    "name": "frandoru0",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "aa77d0ef-eb04-4edb-a392-c7e9006832af",
+    "name": "outaokura",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
